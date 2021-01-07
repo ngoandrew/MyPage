@@ -1,4 +1,5 @@
 # Andrew's Github User Page
+![](DSC_5912.jpg)
 Here's where you can find my [LinkedIn](https://www.linkedin.com/in/ngoandrew00/).
 
 ## [Programming](https://github.com/ngoandrew)
@@ -15,9 +16,9 @@ The languages I know best are:
 3. Python
 
 Some things I want to learn more about:
-- [] Machine learning
-- [] Cybersecurity
-- [] Computer graphics
+- [ ] Machine learning
+- [ ] Cybersecurity
+- [ ] Computer graphics
 
 ## More about me
 Here are some of my favorite artists:
